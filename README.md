@@ -2,7 +2,7 @@
 
 # Hotel Booking Cancellation Prediction
 
-Overview
+# Overview
 The use of machine learning has the potential to redefine Revenue Management in the hospitality industry. The 
 challenge in this industry lies in selling the right room to 
 the right customer at the right moment and for the right price. However, last-minute cancellations and 
@@ -10,14 +10,14 @@ the right customer at the right moment and for the right price. However, last-mi
 allocation of hotel capacity is disrupted. Imagine if the 
 industry could predict cancellations in advance.
 
-Approach
+# Approach
 This project focuses on two hotels: the Resort Hotel and 
 the City Hotel. The dataset comprises 119,390 
 observations, with each observation representing a hotel or resort booking. It consists of 32 variables, and the 
 bookings included span from July 2015 to August 2017, 
 encompassing both arrived and canceled bookings.
 
-Objectives
+# Objectives
 
 Gain an understanding of and analyze booking 
 cancellations, customer segmentation, customer 
@@ -26,7 +26,7 @@ Perform descriptive analysis to identify patterns,
 anomalies, and other relevant insights.
 Develop prediction models to determine the likelihood of a hotel booking being canceled or not.
 
-Conclusion
+# Conclusion
 
 our analysis of various prediction algorithms revealed that the Random Forest algorithm achieved the 
 highest accuracy of 85% in predicting booking cancellations. It outperformed both Logistic Regression and 
